@@ -32,7 +32,8 @@ python3 OUILookup.py --help         # Muestra este mensaje de ayuda
 
 
 
-![Comando MAC especifica ](C:\Users\rodri\--mac)
+![--mac](https://github.com/user-attachments/assets/17728e17-02b6-4217-9734-aabdd8a062b2)
+
 
 ## Integrantes del Grupo
 
