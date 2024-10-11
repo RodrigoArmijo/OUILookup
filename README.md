@@ -28,7 +28,9 @@ python3 OUILookup.py --help         # Muestra este mensaje de ayuda
 
 ## Ejemplos
 
-![Comando help](C:\Users\rodri\--help)
+![--help](https://github.com/user-attachments/assets/3767381e-13c7-4189-a5ed-86b359217a7d)
+
+
 
 ![Comando MAC especifica ](C:\Users\rodri\--mac)
 
